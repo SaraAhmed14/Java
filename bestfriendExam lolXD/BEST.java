@@ -11,7 +11,6 @@ public class Ezraaa {
     public static void main(String[] args)
     {
         Scanner s=new Scanner(System.in);
-        //برنامج اسراء هانم 
         System.out.println(" who is the favourite person for sara");
         Boolean g=true; 
         while(g)
